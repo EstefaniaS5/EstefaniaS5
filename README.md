@@ -16,6 +16,8 @@ Me interesa el desarrollo de software, especialmente las aplicaciones móviles c
 * Dart
 * SQL
 * R
+* Linux
+* Power BI
 
 ### Desarrollo de aplicaciones
 
