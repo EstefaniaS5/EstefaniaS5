@@ -1,8 +1,6 @@
 # Hola! Soy Estefania Solórzano 
 
-Estudiante de octavo semestre de Ingeniería en Ciencias de la Computación en la Universidad San Francisco de Quito (USFQ).
-
-Me interesa el desarrollo de software, especialmente las aplicaciones móviles con Flutter. También estoy fortaleciendo mis conocimientos en bases de datos, backend y ciberseguridad.
+studiante de octavo semestre de Ingeniería en Ciencias de la Computación en la Universidad San Francisco de Quito (USFQ). He desarrollado proyectos académicos con Flutter, Dart, Python y bases de datos SQL. También participo en investigación universitaria sobre inteligencia artificial y ciberseguridad. Me caracterizo por ser una persona responsable, organizada, con capacidad de análisis, resolución de problemas, atención al detalle y facilidad para trabajar en equipo.
 
 ---
 
